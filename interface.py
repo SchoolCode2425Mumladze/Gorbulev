@@ -20,7 +20,7 @@ class Interface:
 
         self.turtle.clear()
         self.turtle.penup()
-        self.turtle.color("lightblue")
+        self.turtle.color("green")
         self.turtle.goto(0, 0)
         self.turtle.write(description, align="center", font=("Arial", 16, "normal"))
 
